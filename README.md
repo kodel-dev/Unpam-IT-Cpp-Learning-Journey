@@ -27,7 +27,8 @@ Unpam-it-cpp-journey/
 ├── 04-Project-Kecil
 │   ├── kalkulator_sederhana.cpp
 │   ├── game_tebak_angka.cpp
-│   └── kasir_mini.cpp
+│   ├── kasir_mini.cpp
+|   └── program_nasabah.cpp
 ├── 05-Algoritma-dan-Struktur-Data
 │   ├── sorting.cpp
 │   ├── searching.cpp
