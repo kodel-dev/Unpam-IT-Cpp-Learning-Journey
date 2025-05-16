@@ -1,32 +1,46 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
+# File binary/output
 *.exe
 *.out
-*.app
+*.o
+*.obj
+*.dll
+*.so
+*.a
+*.class
+*.pyc
+
+# File build
+/build/
+/bin/
+/debug/
+/release/
+
+# File editor dan IDE
+*.log
+*.user
+*.suo
+*.vcxproj*
+*.code-workspace
+*.DS_Store
+
+# Code::Blocks
+*.layout
+*.depend
+*.cbp
+*.layout
+*.autosave
+
+# VSCode
+.vscode/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Backup/temporary
+*~
+*.swp
+*.bak
+*.tmp
