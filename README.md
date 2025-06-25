@@ -34,6 +34,13 @@ Unpam-it-cpp-journey/
 │   ├── searching.cpp
 │   ├── linked_list.cpp
 │   └── stack_dan_queue.cpp
+├── 06-Learn-C++
+|   ├── Analisis_Kalimat.cpp
+|   ├── Arrays_and_Basic_Statistics.cpp
+|   ├── Bubble_Sort_+_Binary_Search.cpp
+|   ├── Faktorial_&_Cek _Bilangan_Prima.cpp
+|   ├── Kategori_usia.cpp
+│   └── Manajemen_Data_Mahasiswa.cpp
 ```
 
 ---
