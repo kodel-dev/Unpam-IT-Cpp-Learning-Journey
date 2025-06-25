@@ -38,7 +38,7 @@ Unpam-it-cpp-journey/
 |   ├── Analisis_Kalimat.cpp
 |   ├── Arrays_and_Basic_Statistics.cpp
 |   ├── Bubble_Sort_+_Binary_Search.cpp
-|   ├── Faktorial_&_Cek _Bilangan_Prima.cpp
+|   ├── Faktorial_&_Cek_Bilangan_Prima.cpp
 |   ├── Kategori_usia.cpp
 │   └── Manajemen_Data_Mahasiswa.cpp
 ```
